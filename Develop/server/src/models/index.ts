@@ -1,3 +1,3 @@
-import User from './User';
+import User from '../models/User.js';
 
-export default { User };
+export default  User ;
